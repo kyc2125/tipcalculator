@@ -17,3 +17,4 @@ public class ShowTotalActivity extends AppCompatActivity {
         textview.setText(""+total);
     }
 }
+//hi//
